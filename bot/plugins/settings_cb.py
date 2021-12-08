@@ -84,4 +84,4 @@ async def settings_cb(c, m):
     filters.create(lambda _, __, query: query.data.startswith("rj"))
 )
 async def _(c, m):
-    await m.answer("😂 press the other button 😂")
+    await m.answer("😏 press the other button 😏")
