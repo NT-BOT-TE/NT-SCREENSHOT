@@ -5,7 +5,7 @@ from bot.config import Config
 
 
 HELP_TEXT = """
-Hi {mention}. Welcome to Screenshot Generator Bot. You can use me to generate:
+Hi 😍 {mention}. Welcome to Screenshot Bot. You can use me to generate:
 
     1. Screenshots.
     2. Sample Video.
@@ -21,9 +21,9 @@ Use /set_watermark to set custom watermarks to your screenshots.
 **General FAQ.**
 
 👉 If the bot dosen't respond to telegram files you forward, first check /start and --confirm bot is alive--. Then make sure the file is a **video file** which satisfies above mentioned conditions.
-👉 If bot replies __😟 Sorry! I cannot open the file.__, the file might be --currupted-- or --is malformatted--.
+👉 If bot replies __😢 Sorry! I cannot open the file.__, the file might be --currupted-- or --is malformatted--.
 
-__If issues persists contact my father.__
+__If issues persists contact my boss.__ @NT_BOT_ADMIN
 
 {admin_notification}
 """
