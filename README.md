@@ -7,7 +7,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NT-BOT-TE/NT-SCREENSHOT-BOT)
 
 ### Public URL of streaming service
-<a href="https://github.com/NT-BOT-TE/NT-SCREENSHOT-2"><img src="https://img.shields.io/badge/2ndlink%20Open%3F-!-green?&style=flat-square!&logo=GitHub" width=220px></a></p>
+<a href="https://github.com/NT-BOT-TE/NT-FILES-TREAM"><img src="https://img.shields.io/badge/2ndlink%20Open%3F-!-green?&style=flat-square!&logo=GitHub" width=220px></a></p>
 
 ## Support
 <a href="https://t.me/NT_BOT_CHANNEL"><img src="https://img.shields.io/badge/Channel%20Join%3F-yes-green?&style=flat-square!&logo=telegram" width=220px></a></p>
@@ -23,7 +23,7 @@ Properly setup the environment variables or populate `config.py` with the values
 * `LOG_CHANNEL`(required) - Log channel's id.
 * `DATABASE_URL`(required) - Mongodb database URI.
 * `AUTH_USERS`(required) - Authorised user(s) id separated by space.
-* `HOST`(required) - Public URL of streaming service ([Source](https://github.com/NT-BOT-TE/NT-SCREENSHOT-2)).
+* `HOST`(required) - Public URL of streaming service ([Source](https://github.com/NT-BOT-TE/NT-FILES-TREAM)).
 * `MAX_PROCESSES_PER_USER`(optional) - Number of parallel processes each user can have, defaults to 2.
 * `MAX_TRIM_DURATION`(optional) - Maximum allowed seconds for trimming. Defaults to 600.
 * `TRACK_CHANNEL`(optional) - User activity tracking channel's id. Only needed if you want to track and block any user. Disabled by default.
