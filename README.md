@@ -4,7 +4,7 @@
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NT-BOT-TE/NT-SCREENSHOT-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NT-BOT-TE/NT-SCREENSHOT)
 
 ### Public URL of streaming service
 <a href="https://github.com/NT-BOT-TE/NT-FILES-TREAM"><img src="https://img.shields.io/badge/2ndlink%20Open%3F-!-green?&style=flat-square!&logo=GitHub" width=220px></a></p>
