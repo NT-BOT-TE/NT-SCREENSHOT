@@ -9,7 +9,7 @@
    "Trim Video",
    "without downloading the entire file"
   ],
-  "repository": "https://github.com/NT-BOT-TE/NT-SCREENSHOT-BOT",
+  "repository": "https://github.com/NT-BOT-TE/NT-SCREENSHOT",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
