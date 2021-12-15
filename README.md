@@ -52,4 +52,5 @@ In bot settings.
 * `Sample Video Duration` - Sample video's duration. Any of `30s`, `60s`, `90s`, `120s`, `150s`. Defaults to `30s`.
 * `Screenshot Genetation Mode` - Either `random` or `equally spaced`. Defaults to `equally spaced`.
 
+<a href="https://t.me/NT_BOT_CHANNEL"><img src="https://te.legra.ph/file/dba336d48033a57871bd4.mp4" width=220px></a></p>
 
