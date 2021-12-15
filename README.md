@@ -8,6 +8,7 @@
 
 ### Public URL of streaming service
 <a href="https://github.com/NT-BOT-TE/NT-FILES-TREAM"><img src="https://img.shields.io/badge/2ndlink%20Open%3F-!-green?&style=flat-square!&logo=GitHub" width=220px></a></p>
+<a href="https://t.me/NT_BOT_CHANNEL"><img src="https://www.1tamilmv.pro/uploads/monthly_2018_01/torrborder.gif.a36a064cf6ccdffab1019892c8caca2d.gif" width=220px></a></p>
 
 ## Support
 <a href="https://t.me/NT_BOT_CHANNEL"><img src="https://img.shields.io/badge/Channel%20Join%3F-yes-green?&style=flat-square!&logo=telegram" width=220px></a></p>
